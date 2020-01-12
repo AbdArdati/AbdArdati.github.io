@@ -2,7 +2,7 @@
   "basics": {
     "name": "Abd Alsattar Ardati",
     "label": "PhD Student of Computer Science at The University of St Andrews",
-    "picture": "https://AbdArdati.github.io/images/profile.jpg",
+    "picture": "https://AbdArdati.github.io/images/profile.JPG",
     "email": "aaa8@st-ansdrews.ac.uk",
     "phone": "",
     "website": "https://AbdArdati.github.io",
@@ -10,15 +10,15 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "St Andrews",
       "countryCode": "",
-      "region": ""
+      "region": "Scotland, UK"
     },
     "profiles": [
       {
         "network": "github",
         "username": "AbdArdati",
-        "url": "http://github.com/changeme"
+        "url": "https://github.com/AbdArdati"
       },
       {
         "network": "linkedin",
@@ -41,18 +41,43 @@
     {
       "name": "Collaborative Editing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Crowdsourcing",
+        "Group Dynamics",
+        "Face-to-face Collaboration",
+        "Ditributed Collaboration"
+      ]
+    },
+    {
+      "name": "Wikipedia",
+      "keywords": [
+        "Wiki Technology",
+        "Collaboration Patterns",
+        "Online Communities"
       ]
     },
     {
       "name": "Web Development",
       "keywords": [
+        "Single-page application",
+        "Web Extentions"
+      ]
+    },
+     {
+      "name": "Education",
+      "keywords": [
+        "Collaborative Learning"
       ]
     },
     {
-      "name": "Research",
+      "name": "Agile Management",
       "keywords": [
+        "Scrum"
+      ]
+    },
+    {
+      "name": "HCI Research",
+      "keywords": [
+        "Usability"
       ]
     }
   ],
@@ -61,11 +86,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
+        "JavaScript",
+        "PHP",
+        "Laravel",
+        "VueJS",
         "Common Lisp"
       ]
     },
