@@ -1,57 +1,57 @@
 {
   "basics": {
     "name": "Abd Alsattar Ardati",
-    "label": "Student",
+    "label": "PhD Student of Computer Science at The University of St Andrews",
     "picture": "https://AbdArdati.github.io/images/main_large (2).jpg",
     "email": "aaa8@st-ansdrews.ac.uk",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://AbdArdati.github.io",
-    "summary": "I am studying PhD.",
+    "summary": "I am a recipient of St Leonard's Postgraduate College Doctoral Scholarship to research the development of a sociotechnical system for collaborative volunteer editing, which contributes to filling gaps in the free online knowledge content.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "AbdArdati",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://www.linkedin.com/in/a-ardati/"
       },
       {
         "network": "twitter",
         "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "url": "https://twitter.com/Abd_Alsattar_Ar"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "https://www.instagram.com/sam_ardatii/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Collaborative Editing",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Research",
       "keywords": [
       ]
     }
