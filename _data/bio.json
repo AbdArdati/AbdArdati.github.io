@@ -6,13 +6,13 @@
     "email": "aaa8@st-ansdrews.ac.uk",
     "phone": "",
     "website": "https://AbdArdati.github.io",
-    "summary": "I am a recipient of St Leonard's Postgraduate College Doctoral Scholarship to research the development of a sociotechnical system for collaborative volunteer editing, which contributes to filling gaps in the free online knowledge content.",
+    "summary": "I am a PhD student who is researching the development of a sociotechnical system for collaborative volunteer editing, which contributes to filling the gaps in free online knowledge content.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "St Andrews",
-      "countryCode": "",
-      "region": "Scotland, UK"
+      "countryCode": "Scotland",
+      "region": "United Kingdom"
     },
     "profiles": [
       {
@@ -22,17 +22,17 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "a-ardati",
         "url": "https://www.linkedin.com/in/a-ardati/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "Abd_Alsattar_Ar",
         "url": "https://twitter.com/Abd_Alsattar_Ar"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "sam_ardatii",
         "url": "https://www.instagram.com/sam_ardatii/"
       }
     ]
@@ -43,7 +43,7 @@
       "keywords": [
         "Crowdsourcing",
         "Group Dynamics",
-        "Face-to-face Collaboration",
+        "Face-to-Face Collaboration",
         "Ditributed Collaboration"
       ]
     },
@@ -52,7 +52,9 @@
       "keywords": [
         "Wiki Technology",
         "Collaboration Patterns",
-        "Online Communities"
+        "Online Communities",
+        "Collaborative Translation",
+        "Online Volunteering"
       ]
     },
     {
@@ -65,7 +67,8 @@
      {
       "name": "Education",
       "keywords": [
-        "Collaborative Learning"
+        "Collaborative Learning",
+        "Teaching English as a second language (TESL)"
       ]
     },
     {
@@ -77,7 +80,10 @@
     {
       "name": "HCI Research",
       "keywords": [
-        "Usability"
+        "Usability",
+        "Collaboration and Learning",
+        "Remote Group Collaboration Technologies",
+        "Visualization"
       ]
     }
   ],
@@ -90,8 +96,7 @@
         "JavaScript",
         "PHP",
         "Laravel",
-        "VueJS",
-        "Common Lisp"
+        "Vue.js"
       ]
     },
     {
@@ -100,19 +105,37 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of St Andrews",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2019-05-01",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+      {
+      "institution": "University of St Andrews",
+      "area": "Management and Information Technology (Distinction & Deans' List award)",
+      "studyType": "Master's degree",
+      "startDate": "2017-09-11",
+      "endDate": "2018-11-11",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+      {
+      "institution": "Arab Academy for Science, Technology and Maritime Transport",
+      "area": "Computer Engineering (distinction & honour status)",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2009-09-11",
+      "endDate": "2014-11-11",
       "gpa": "",
       "courses": [
       ]
@@ -120,69 +143,112 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "University of St Andrews",
+      "position": "Laboratory Demonstrator",
+      "website": "https://www.cs.st-andrews.ac.uk/directory/person?id=aaa8",
+      "startDate": "2018-12-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Java Class Execrcies Demonstration",
+        "JavaScript Class Execrcies Demonstration",
+        "Proctoring examinations"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Arab Academy for Science, Technology and Maritime Transport",
+      "position": "Teaching Assistant & Programming Coach",
+      "website": "http://latakia.aast.edu/en/",
+      "startDate": "2014-01-01",
+      "endDate": "2017-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Taught the practical part of modules such the Software Engineering, Data Base, Data and Communication, Network Design modules.",
+        "Previous ACM Programming Contest Coach"
+      ]
+    },
+    {
+      "company": "CMD \"Control, Manage, Decide\" Software Solutions Company",
+      "position": "Software Engineering Team Leader",
+      "website": "",
+      "startDate": "2013-01-01",
+      "endDate": "2015-03-15",
+      "summary": "",
+      "highlights": [
+      "Waterfall project management"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Wikimedia UK",
+      "website": "https://wikimedia.org.uk/",
+      "position": "Training Specialist",
+      "startDate": "2018-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "University of St Andrews Saints Sport",
+      "website": "https://www.st-andrews.ac.uk/sport/",
+      "position": "Archery Club Publicity Officer",
+      "startDate": "2018",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+     {
+      "title": "St Leonard's Postgraduate College Doctoral Scholarship",
+      "date": "2019-2023",
+      "awarder": "St Leonard's Postgraduate College & The University of St Andrews",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "The University of St Andrews Enterprising Pitch Award",
+      "date": "2018",
+      "awarder": "University of St Andrews",
+      "summary": ""
+    },
+    {
+      "title": "The University of St Andrews Deans' List Award",
+      "date": "2018",
+      "awarder": "University of St Andrews",
+      "summary": ""
+    },
+    {
+      "title": "The UK Government Chevening Scholarship",
+      "date": "2017-2018",
+      "awarder": "The UK Government",
+      "summary": ""
+    },
+    {
+      "title": "The Syrian Government Ministry of Higher Education Scholarship for Private Universities.",
+      "date": "2009-2014",
+      "awarder": "The Syrian Government Ministry of Higher Education",
+      "summary": ""
+    },
+    {
+      "title": "The Arab Academy's Outstanding Teaching Assistant Award",
+      "date": "2016-2017",
+      "awarder": "Arab Academy for Science, Technology and Maritime Transport",
+      "summary": ""
+    },
+    {
+      "title": "The Arab Academy's Certification of Gratitude and Appreciation for Excellence in Sport",
+      "date": "2015-2-16",
+      "awarder": "Arab Academy for Science, Technology and Maritime Transport",
+      "summary": ""
+    },
+    {
+      "title": "The CMD company competition in System Analysis and Design Award",
+      "date": "2014-2015",
+      "awarder": "CMD \"Control, Manage, Decide\" Software Solutions Company",
+      "summary": ""
     }
   ],
   "references": [
