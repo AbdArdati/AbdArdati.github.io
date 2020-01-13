@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Abd Alsattar Ardati",
-    "label": "PhD Student of Computer Science at The University of St Andrews",
+    "label": "PhD Student",
     "picture": "https://AbdArdati.github.io/images/profile.JPG",
     "email": "aaa8@st-ansdrews.ac.uk",
     "phone": "",
     "website": "https://AbdArdati.github.io",
-    "summary": "I am a PhD student who is researching the development of a sociotechnical system for collaborative volunteer editing, which contributes to filling the gaps in free online knowledge content.",
+    "summary": "I am a PhD student of Computer Science at The University of St Andrews. I am researching the development of a sociotechnical system for collaborative volunteer editing, which contributes to filling the gaps in free online knowledge content.",
     "location": {
       "address": "",
       "postalCode": "",
