@@ -8,9 +8,6 @@ permalink: projects/vacay
 date: 2015-12-15
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
