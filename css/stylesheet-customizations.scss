@@ -6,18 +6,61 @@
 // Here are some common customizations for colors
 
 // Customize the background color
-
-body {
-  background: linear-gradient(to bottom right, lightskyblue, whitesmoke);
-}
-
-
 // Customize the menubar color
 .ui.menu {
-  background: lightskyblue;
+  background: $uh-green-light;
+
+  a.item {
+    color: white;
+
+    &:hover {
+      color: white;
+      background-color: $uh-green;
+    }
+  }
+
+  a.active.item, a.active.item:hover {
+    color: white;
+    background-color: $uh-green;
+  }
+}
+
+// "Read More" buttons
+a.ui.bottom.attached.button {
+  color: white;
+  background: $uh-green-light;
+
+  &:hover {
+    background: $uh-green;
+  }
+}
+
+// Tag pill boxes
+div.ui.basic.label {
+  color: white;
+  background: $uh-green-light;
+}
+
+// General links
+a {
+  color: $uh-green-light;
+  &:hover {
+    color: $uh-green;
+  }
+}
+
+// Home page buttons (projects, essays, cv, etc)
+.ui.basic.button, .ui.basic.buttons .button {
+  background: $uh-green-light !important;
+  color: white !important;
+
+  &:hover {
+    background: $uh-green !important;
+    color: white !important;
+  }
 }
 
 // Customize the home page icon colors
 .icon-color {
-  color: darken(lightsteelblue, 20%);
+  color: $uh-green-light;
 }
