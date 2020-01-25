@@ -5,10 +5,10 @@
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 body {
-  background-color: #04B8CF;
-} 
+  background: lightskyblue;
+}
 
-$uh-green-official: #69E810; // https://www.hawaii.edu/offices/eaur/graphicsguide.html
+$uh-green-official: #024731; // https://www.hawaii.edu/offices/eaur/graphicsguide.html
 $uh-green: lighten($uh-green-official, 5%);
 $uh-green-light: lighten($uh-green-official, 10%);
 
