@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Abd Alsattar Ardati",
-    "label": "PhD Student | Social Entrepreneur | Wikimedia UK Trainer | Chevener",
+    "label": "PhD Student | Social Entrepreneur | Wikimedia UK Trainer",
     "picture": "https://AbdArdati.github.io/images/profile.JPG",
     "email": "abd.alsattar.ardati@gmail.com",
     "phone": "",
@@ -49,13 +49,14 @@
       ]
     },
     {
-      "name": "Wikipedia",
+      "name": "Equity and Human Rights in an Open Knowledge Society",
       "keywords": [
         "Wiki Technology",
         "Collaboration Patterns",
         "Online Communities",
         "Collaborative Translation",
-        "Online Volunteering"
+        "Online Volunteering",
+        "Human Rights"
       ]
     },
     {
