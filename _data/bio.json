@@ -61,6 +61,7 @@
     {
       "name": "Web Development",
       "keywords": [
+        "Open-source",
         "Single-page application",
         "Web Extentions"
       ]
@@ -75,7 +76,10 @@
     {
       "name": "Agile Management",
       "keywords": [
-        "Scrum"
+        "Scrum",
+        "Kanban",
+        "Scrumban",
+        "HIVE (Human Interaction Virtual Environment) organisational model"
       ]
     },
     {
@@ -85,28 +89,6 @@
         "Collaboration and Learning",
         "Remote Group Collaboration Technologies",
         "Visualization"
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "Java",
-        "JavaScript",
-        "PHP",
-        "Laravel",
-        "Vue.js"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub"
       ]
     }
   ],
@@ -291,6 +273,60 @@
       "date": "2014-2015",
       "awarder": "CMD \"Control, Manage, Decide\" Software Solutions Company",
       "summary": ""
+    }
+  ],
+  "Additional Information": [
+     {
+      "name": "Social Entrepreneurship",
+      "level": "",
+      "keywords": [
+        "Course at the University of Oxford, Department for Continuing Education",
+      ]
+    },  
+    {
+      "name": "Professional Skills Curriculum",
+      "level": "",
+      "keywords": [
+        "Series of evening workshops at the University of St Andrews require regular attendance to develop skills in Project Management, Team Management, Strategy and Organisation, Presentation, amongst others.",
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Java",
+        "JavaScript",
+        "PHP",
+        "Node.js",
+        "MeteorJS",
+        "Laravel",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "Methods/Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Agile Management (Scrum and Kanban)",
+        "macOS",
+        "Ubuntu",
+        "Windows",
+        "Git"
+      ]
+    },
+    {
+      "name": "Language",
+      "level": "",
+      "keywords": [
+        "Full bilingual proficiency (speaking, reading, writing) in English and Arabic.",
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "level": "",
+      "keywords": [
+        "Full bilingual proficiency (speaking, reading, writing) in English and Arabic.",
+      ]
     }
   ],
   "references": [
