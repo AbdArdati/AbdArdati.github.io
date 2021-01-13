@@ -44,7 +44,8 @@
         "Crowdsourcing",
         "Group Dynamics",
         "Face-to-Face Collaboration",
-        "Ditributed Collaboration"
+        "Ditributed Collaboration",
+        "Social Enterprise"
       ]
     },
     {
@@ -143,27 +144,56 @@
   ],
   "work": [
     {
-      "company": "University of St Andrews",
+      "company": "School of Computer Science at the University of St Andrews",
       "position": "Laboratory Demonstrator",
       "website": "https://www.cs.st-andrews.ac.uk/directory/person?id=aaa8",
       "startDate": "2018-12-01",
       "endDate": "Present",
+      "summary": "Engaged in tutoring, demonstrating and marking on Computer Science modules",
+      "highlights": [
+        "Java class execrcies demonstration",
+        "JavaScript class execrcies demonstration",
+        "Proctoring examinations"
+      ]
+    },
+        {
+      "company": "Students' Association at the University of St Andrews",
+      "position": "Postgraduate Academic Convenor & St Leonard's Liaison Officer",
+      "website": "https://www.cs.st-andrews.ac.uk/directory/person?id=aaa8",
+      "startDate": "2019",
+      "endDate": "2020",
       "summary": "",
       "highlights": [
-        "Java Class Execrcies Demonstration",
-        "JavaScript Class Execrcies Demonstration",
-        "Proctoring examinations"
+        "As a Postgraduate Academic Convenor, I was responsible for the academic representation of Postgraduates. My primary responsibility for the Students' Union is to represent the PG community's views at the University committee level for Taught and Research Students.",
+        "I worked alongside the Postgraduate President and numerous other excellent team members to provide union-side support (academic or otherwise), events, and balls for the Postgraduate community.",
+        "My role as a St Leonard's Liaison Officer was to work with St Leonard's College, the 'home' for all postgraduates within the university, and the Graduate School regarding the postgraduate student experience."
+         "The role involved convening meetings between Postgraduate Committee members, the Provost, the St Leonard's College Administrative Officer, and other St Leonard's College management. I also worked alongside university staff members to arrange the St Leonard's College dinner, which happens once a semester"
+      ]
+    },
+        {
+      "company": "CEED - Professional Skills Curriculum (PSC) at University of St Andrews",
+      "position": "Alumni Coordinator & Managers' Network Coordinator",
+      "website": "https://www.cs.st-andrews.ac.uk/directory/person?id=aaa8",
+      "startDate": "2017-12-01",
+      "endDate": "2018",
+      "summary": "",
+      "highlights": [
+        "As a Managers' Network Coordinator, I liaised with the 50+ professional managers at the university, hosting forums and inviting students to connect with managers from throughout the student body.",
+        "I represented the PSC at the students' freshers and career fairs."
+
       ]
     },
     {
       "company": "Arab Academy for Science, Technology and Maritime Transport",
-      "position": "Teaching Assistant & Programming Coach",
+      "position": "Teaching Assistant & Extracurricular Programme Coordinator",
       "website": "http://latakia.aast.edu/en/",
       "startDate": "2014-01-01",
       "endDate": "2017-03-15",
       "summary": "",
       "highlights": [
-        "Taught the practical part of modules such the Software Engineering, Data Base, Data and Communication, Network Design modules.",
+        "Taught the practical part of modules such the Software Engineering, Database, Data and Communication, Network Design modules.",
+        "Prepared, whenever asked, and proctored examinations.",
+        "Prepared and marked assignments.",
         "Previous ACM Programming Contest Coach"
       ]
     },
@@ -175,7 +205,13 @@
       "endDate": "2015-03-15",
       "summary": "",
       "highlights": [
-      "Waterfall project management"
+      "Designed Gantt charts in coordination with the project manager.",
+      "Designed and assigned the right task to the right team member."
+      "Recruited, evaluated, and trained new team members.",
+      "Substituted for team members, whenever the need arose.",
+      "Represented my team (The Right Choice) at various conferences.",
+      "Mediated between team members and helped solve their problems.",
+      "Wrote performance assessment reports for both the project manager and the company's main office.	"
       ]
     }
   ],
@@ -206,6 +242,12 @@
       "title": "St Leonard's Postgraduate College Doctoral Scholarship",
       "date": "2019-2023",
       "awarder": "St Leonard's Postgraduate College & The University of St Andrews",
+      "summary": ""
+    },
+     {
+      "title": "The University of St Andrews Endorsement for the Graduate Entrepreneur Visa Scheme.",
+      "date": "2018-2019",
+      "awarder": "The University of St Andrews",
       "summary": ""
     },
     {
@@ -253,7 +295,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
     }
   ]
