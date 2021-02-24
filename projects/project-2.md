@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/notability.png
-title: Notability – who and what deserves to be on Wikipedia?
+title: Notability – Who and What Deserves To Be on Wikipedia?
 permalink: projects/wikipedia-notability
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-22
