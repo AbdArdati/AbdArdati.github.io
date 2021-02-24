@@ -58,3 +58,4 @@ Wierzbicki, Adam, Piotr Turek, and Radoslaw Nielek. 2010. “Learning about Team
 
 Zha, Yilong, Tao Zhou, and Changsong Zhou. 2016. “Unfolding Large-Scale Online Collaborative Human Dynamics.” Proceedings of the National Academy of Sciences of the United States of America 113 (51): 14627–32.
 
+――――――――――――――――――――――――――――――――――――
