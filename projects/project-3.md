@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wiki-events.jpg
+image: images/notability.png
 title: Wikipedia editors: fickle individualists or stable communities?
 permalink: projects/wikipedia-editing-events
 # All dates must be YYYY-MM-DD format!
