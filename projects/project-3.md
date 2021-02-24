@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/notability.png
-title: Wikipedia editors: fickle individualists or stable communities?
-permalink: projects/wikipedia-editing-events
+title: Notability – who and what deserves to be on Wikipedia?
+permalink: projects/wikipedia-notability
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-20
+date: 2021-01-22
 labels:
   - Wikipedia
   - Ongoing Research
   - Group Senior Honours Project
-summary: The aim of this project is to use data on Wikipedia editing events in combination with Wikipedia data dumps containing information about edits to answer questions like the ones above.
+summary: The aim of this project is to study the way that the concept of notability operates in the Wikipedia community.
 ---
 
 ## Description
