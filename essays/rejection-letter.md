@@ -32,11 +32,11 @@ I don’t share my experience to spread negative vibes. On the contrary, I am sh
 
 - **Be Resilient:** Speedy recovery from failure is one of the top job skills employers look for, in 2021. In the background section, I posted a great Forbes article on resilience, during our unprecedented times, by Khurram Masood. Seek an Explanation: no is hardly the good answer you need! It should be a “yes,” or a “no” with a “why.” If possible, you should know precisely the reason for the employer’s rejection. In the comments section, I included the article from which I borrowed the content shown in the images.
 
-- **Embrace it:** I appreciate the kind words from friends telling me they had already identified the employees they needed, even before advertising for the position. This could be true for them, but in my case, I have to say, I have a long way to go to master my English communication skills, which would be a game-changer.
+- **Embrace It:** I appreciate the kind words from friends telling me they had already identified the employees they needed, even before advertising for the position. This could be true for them, but in my case, I have to say, I have a long way to go to master my English communication skills, which would be a game-changer.
 
 - **Be Grateful for the Experience:** consider the job rejection a sort of a free consultation, helping you improve your job application skills, propelling you forward.
 
-- **Take action:** Invest faith, love, and hard work in planning your next step. Find out the best way to enhance your skills quickly! It might be a course you take, or private lessons or practising with a friend. Just avoid shelving it into your wishlist of things you’d never get done.
+- **Take Action:** Invest faith, love, and hard work in planning your next step. Find out the best way to enhance your skills quickly! It might be a course you take, or private lessons or practising with a friend. Just avoid shelving it into your wishlist of things you’d never get done.
 Best wishes for success in all of your future endeavours!
 
 ## Background
