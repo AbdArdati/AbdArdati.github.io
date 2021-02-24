@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My job applications have often produced rejection emails!
+title: My Job Applications Have Often Produced Rejection Emails!
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-05
 labels:
