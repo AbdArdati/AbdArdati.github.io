@@ -40,5 +40,4 @@ Hine, C. (2015). Ethnography for the Internet. London: Taylor & Francis Group.
 
 Wagner, Claudia, Graells-Garrido, Eduardo, Garcia, David, & Menczer, Filippo. (2016). Women through the glass ceiling: Gender asymmetries in Wikipedia. EPJ Data Science, 5(1), 1-24.
 
-
--
+――――――――――――――――――――――――――――――――――――
