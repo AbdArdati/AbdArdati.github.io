@@ -10,7 +10,7 @@ labels:
   - Wikipedia
   - Research
   - Senior Honours Project Supervision
-summary: A Firefox extension to reduce the barrier to entry for new Wikipedia users.
+summary: The aim of this project was to build a Firefox extension to reduce the barrier to entry for new Wikipedia users.
 ---
 
 <div class="ui medium rounded images">
