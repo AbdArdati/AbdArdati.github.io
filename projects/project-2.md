@@ -23,7 +23,7 @@ Phelps is a woman and African American. She does have a Wikipedia entry today th
 
 The aim of this project is to study the way that the concept of notability operates in the Wikipedia community. How is it operationalised in the Wikipedia guidelines? How do people use the guidelines in discussing the notability of a subject, e.g., in the talk pages or in edit comments? Are there common patterns that can be identified in data from Wikipedia? Do notability guidelines get applied to people of different demographics in different ways? How are decisions about notability countered?
 
-##Supervisors
+## Supervisors
 Dr Alexander Voss, Abd Alsattar Ardati
 
 ## Artefact(s)
@@ -41,3 +41,4 @@ Hine, C. (2015). Ethnography for the Internet. London: Taylor & Francis Group.
 Wagner, Claudia, Graells-Garrido, Eduardo, Garcia, David, & Menczer, Filippo. (2016). Women through the glass ceiling: Gender asymmetries in Wikipedia. EPJ Data Science, 5(1), 1-24.
 
 
+-
