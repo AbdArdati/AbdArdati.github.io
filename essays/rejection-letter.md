@@ -7,7 +7,7 @@ date: 2021-01-05
 labels:
   - Personal Development
   - Interviews
-  - StackOverflow
+  - Lessons Learned
 ---
 
 <img class="ui  big center spaced image" src="../images/rejection.png">
