@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/wiki-events.jpg
-title: Wikipedia editors – fickle individualists or stable communities?
+title: Wikipedia Editors – Fickle Individualists or Stable Communities?
 permalink: projects/wikipedia-events
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-20
