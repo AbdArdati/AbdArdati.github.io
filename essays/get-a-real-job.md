@@ -11,7 +11,7 @@ labels:
   - Wikipedia
 ---
 
-<img class="ui  big center spaced image" src="../images/real-job.jpg">
+<img class="ui medium right floated rounded image" src="../images/real-job.jpg">
 
 Many people, even close ones, ask me why are you wasting your time on a PhD and bother yourself with non-profits, why don’t you get a “real job”? 
 
