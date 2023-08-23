@@ -257,14 +257,32 @@
       "website": "https://www.st-andrews.ac.uk/sport/",
       "position": "Archery Club Publicity Officer",
       "startDate": "2018",
-      "endDate": "Present",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
       ]
     }
   ],
   "awards": [
-     {
+    {
+      "title": "OpenUK Honours List",
+      "date": "2021-2022",
+      "awarder": "OpenUK",
+      "summary": ""
+    },
+        {
+      "title": "Chevening Alumni Programme Fund (CAPF) – Grant to organise an online conference. ",
+      "date": "2021-2022",
+      "awarder": "UK Govt FCDO’s Chevening Scholarship ",
+      "summary": ""
+    },
+            {
+      "title": "Up and Coming Wikimedian.",
+      "date": "2020-2021",
+      "awarder": "Wikimedia UK",
+      "summary": ""
+    },
+    {
       "title": "St Leonard's Postgraduate College Doctoral Scholarship",
       "date": "2019-2023",
       "awarder": "St Leonard's Postgraduate College & The University of St Andrews",
