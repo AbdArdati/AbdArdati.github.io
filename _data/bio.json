@@ -6,7 +6,7 @@
     "email": "abd.alsattar.ardati@gmail.com",
     "phone": "",
     "website": "https://AbdArdati.github.io",
-    "summary": "I'm a Lecturer at the University of St Andrews School of Computer Science. I have recently wrapped up my PhD in Computer Science, with graduation just around the corner! My research led to the introduction of an Ethnographically-informed Distributed Participatory Design (EDPD) framework. This framework provides a novel process for involving diverse, widely distributed online communities in building grassroots solutions. Presently, my focus is on exploring participatory design strategies that foster stronger connections between researchers and communities, enabling us to tackle persistent social issues like digital poverty.",
+    "summary": "I'm a Lecturer at the University of St Andrews School of Computer Science. My PhD research led to the introduction of an Ethnographically-informed Distributed Participatory Design (EDPD) framework. This framework provides a novel process for involving diverse, widely distributed online communities in building grassroots solutions. Presently, my focus is on exploring participatory design strategies that foster stronger connections between researchers and communities, enabling us to tackle persistent social issues like digital poverty.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -38,12 +38,34 @@
     ]
   },
   "interests": [
-      {
+        {
+      "name": "HCI Research",
+      "keywords": [
+        "Usability",
+        "Collaboration and Learning",
+        "Remote Group Collaboration Technologies",
+        "Visualization"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Product Management",
+        "Agile Project Management",
+        "Care Driven Development",
+        "Scrum",
+        "Kanban",
+        "HIVE (Human Interaction Virtual Environment) organisational model",
+        "Essence Framework"
+      ]
+    },
+    {
       "name": "Participatory Design",
       "keywords": [
         "Co-design",
         "Cross-cultural design",
-        "Distributed design"
+        "Distributed design",
+        "PD Methods & Tools"
       ]
     },
     {
@@ -84,24 +106,7 @@
         "Teaching English as a second language (TESL)"
       ]
     },
-    {
-      "name": "Agile Management",
-      "keywords": [
-        "Scrum",
-        "Kanban",
-        "Scrumban",
-        "HIVE (Human Interaction Virtual Environment) organisational model"
-      ]
-    },
-    {
-      "name": "HCI Research",
-      "keywords": [
-        "Usability",
-        "Collaboration and Learning",
-        "Remote Group Collaboration Technologies",
-        "Visualization"
-      ]
-    }
+
   ],
   "education": [
     {
@@ -109,7 +114,7 @@
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "Doctor of Philosophy - PhD",
       "startDate": "2019-05-01",
-      "endDate": "Present",
+      "endDate": "28-09-2023",
       "gpa": "",
       "courses": [
       ]
@@ -369,6 +374,8 @@
         "Node.js",
         "MeteorJS",
         "Laravel",
+        "D3.js",
+        "React.js",
         "Vue.js"
       ]
     },
