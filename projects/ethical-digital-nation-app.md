@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ethical-digital-nation.jpg
+image: images/ethical-digital-nation-web-app.png
 title: "Ethical Digital Nation Collaborative Web App"
 permalink: projects/ethical-digital-nation-app
 date: 2024-09-17
