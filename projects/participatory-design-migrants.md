@@ -53,6 +53,6 @@ This project demonstrates the effectiveness of **participatory design** in devel
 
 ## Artefact(s)
 
-- **Migrant Web Extension Prototype:** A tool designed to assist migrants with online navigation and integration, co-designed with the target community through participatory design methodologies.
+**Migrant Web Extension Prototype:** A tool designed to assist migrants with online navigation and integration, co-designed with the target community through participatory design methodologies.
 
 ---
