@@ -4,7 +4,7 @@ type: project
 image: images/cross-cultural-pd.png
 title: "Cross-Cultural Participatory Design: Bridging Global Perspectives"
 permalink: projects/cross-cultural-participatory-design
-date: 2024-09-17
+date: 2023-08-17
 labels:
   - Participatory Design
   - Cross-Cultural Collaboration
@@ -50,7 +50,7 @@ The project demonstrates the value of applying participatory design principles a
 
 ## Contributors
 - MSc Student: Yunzhi Xu
-- Supervisor: Dr Abd Alsattar Ardati and Dr Angela Miguel
+- Supervisors: Dr Angela Miguel and Dr Abd Alsattar Ardati
 
 ## Artefact(s)
 
