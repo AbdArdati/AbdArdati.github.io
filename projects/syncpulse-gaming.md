@@ -55,3 +55,4 @@ Additionally, the project showcased how this method could improve replayability,
 ## Artefact(s)
 
 - **SyncPulse Horror Game Prototype:** A Unity-based horror game developed with real-time heart rate synchronization to dynamically alter tension levels.
+  ---
