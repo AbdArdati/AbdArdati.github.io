@@ -55,3 +55,4 @@ The project demonstrates the value of applying participatory design principles a
 ## Artefact(s)
 
 - A set of **design prototypes** developed through cross-cultural participatory design workshops and feedback sessions.
+---
