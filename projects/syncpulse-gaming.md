@@ -49,7 +49,7 @@ The **SyncPulse** project demonstrated that synchronizing in-game events with a 
 Additionally, the project showcased how this method could improve replayability, as tension-inducing elements maintain their impact across multiple playthroughs. Further research could explore expanding this concept to other physiological indicators, improving synchronization algorithms, and applying these techniques to broader genres.
 
 ## Contributors
-- MSc Student: Paul Revell
+- SH Student: Paul Revell
 - Supervisors: Dr Abd Alsattar Ardati and Dr Xu Zhu
 
 ## Artefact(s)
